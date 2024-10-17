@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphasf9" alt="alphasf9" /></a> </p>
 
-- 🔭 I’m currently working on [Food Delivery Website ](https://github.com/Alphasf9/fooddeliverysystem)
+- 🔭 I’m currently working on [Job Recommendation Portal  ](https://github.com/Alphasf9/Job-Recommendation-Portal-2K21-Project)
 
 - 🌱 I’m currently learning **Backhend,React**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **ha7496154@gmail.com**
+- 📫 How to reach me **developerhaseeb1234@gmail.com**
 
 - 📄 Know about my experiences [https://1drv.ms/w/s!AiJYm1tAt4gGg_5SncXTGxoLgO25CQ?e=DjKCie](https://1drv.ms/w/s!AiJYm1tAt4gGg_5SncXTGxoLgO25CQ?e=DjKCie)
 
