@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphasf9" alt="alphasf9" /></a> </p>
 
 - 🔭 I’m currently working on [UBER ](https://github.com/Alphasf9/UBER/tree/main/UBER-CLONE-main)
-- 🔭 I'm also currently working on [BANK] (https://github.com/Alphasf9/BANK/) with shubhammauryaask (https://github.com/shubhammauryask) ,kk-0010 (https://github.com/Kk-0010)
+- 🔭 I'm also currently working on [BANK] (https://github.com/Alphasf9/BANK/) with shubhammauryaask (https://github.com/shubhammauryask), aryankumar (https://github.com/Aryan-Kumar-7) ,kk-0010 (https://github.com/Kk-0010)
   
 
 - 🌱 I’m currently learning **Backhend,React**
